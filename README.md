@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manohar-km
-- 👀 I’m interested in software development,Blockchain, AI and ML
-- 🌱 I’m currently learning Java,DSA,Python
-- 💞️ I’m looking to collaborate on projects in above technologies
+- 👀 I’m interested in Full Stack development, Data Science and Computer Vision
+- 🌱 Currrently working as Associate Software Engineer at Carelon Global Solutions
+- 💞 I’m looking to collaborate on projects in above technologies
 - 📫 Reach Me @ linkedin.com/in/manoharkm/
 
 <!---
